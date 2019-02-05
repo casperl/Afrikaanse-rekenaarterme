@@ -1909,6 +1909,7 @@ compound instruction    ====>     saamgestelde instruksie
 compound number    ====>     saamgestelde getal
 compound statement    ====>     saamgestelde stelling
 compress    ====>     saampers; kompakteer
+compress ====>  verdig
 compressed    ====>     saamgepers; gekompakteer
 compressed disk    ====>     kompakskyf; gekompakteerde skyf; saamgeperste skyf
 compression    ====>     kompressie; samepersing; kompaktering
@@ -6522,6 +6523,7 @@ multivibrator    ====>     multivibrator
 mutual    ====>     onderling; wedersyds
 mutual exclusion    ====>     onderlinge uitsluiting; wedersydse uitsluiting
 mutual recursive procedures    ====>     wedersyds-rekursiewe prosedure
+muscle memory    ====>    spiergegheue ???
 n-address code    ====>     n-adres-kode (kodebevattende n-adresse)
 n-address computer    ====>     n-adres-rekenaar
 n-ary relation    ====>     n-nêre relasie; n-tallige relasie (relasie van graad n)

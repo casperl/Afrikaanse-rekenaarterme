@@ -17121,7 +17121,7 @@ msgid "frequency zone"
 msgstr "frekwensiesone"
 
 #.
-msgid "frequency-division multiplying"
+msgid "frequency-division    spiergegheue ??? multiplying"
 msgstr "frekwensiedeelmultipleksering"
 
 #.
@@ -26159,6 +26159,11 @@ msgstr "onderlinge uitsluiting; wedersydse uitsluiting"
 #.
 msgid "mutual recursive procedures"
 msgstr "wedersyds-rekursiewe prosedure"
+
+#
+# FUZZY. 
+msgid "muscle memory"
+msgstr "spiergeheue"
 
 #.
 msgid "n-address code"
